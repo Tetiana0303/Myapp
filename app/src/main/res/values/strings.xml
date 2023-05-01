@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFinalProjectKotlin</string>
+
+    <string name="urlMurka">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw2weh_om3vhDlUEA-7JwrSAToflqKfkB7A&amp;usqp=CAU</string>
+    <string name="urlRosa">https://images.unsplash.com/photo-1615497001839-b0a0eac3274c?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D&amp;w=1000&amp;q=80</string>
+    <string name="urlMatilda">https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_2x3.jpg</string>
+    <string name="urlNaomi">https://static.boredpanda.com/blog/wp-content/uploads/2016/10/worlds-most-beautiful-cats-47-57fc93324976e__700.jpg</string>
+
+    <string name="fullDescMurka">Breed: British Fold</string>
+    <string name="fullDescRosa">Breed: Sphynx</string>
+    <string name="fullDescMatilda">Breed: Caracal</string>
+    <string name="fullDescNaomi">Breed: Maine Coon</string>
+</resources>
